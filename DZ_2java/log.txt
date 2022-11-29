@@ -1,0 +1,2 @@
+нояб. 28, 2022 10:32:18 PM Ex1 GetInfoLog
+SEVERE: java.io.FileNotFoundException: log.txt (No such file or directory)
